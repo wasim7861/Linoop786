@@ -1,5 +1,0 @@
-!#/bin/bash
-whoami
-lsblk 
-df -h
-
