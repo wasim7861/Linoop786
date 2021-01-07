@@ -1,0 +1,9 @@
+---
+- name: CRAETING A USER
+  hosts: all
+  tasks: 
+    - name: smama
+      user: 
+        name: samar
+        state: present 
+
